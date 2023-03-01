@@ -120,6 +120,8 @@ If you're committed to making the world a better place, please support our proje
 
 ## :memo: License <a name="license"></a>
 
-This project is [MIT](https://github.com/asifaminisonline/vet-clinic/blob/dev/LICENSE) licensed.
+<!-- This project is [MIT](https://github.com/asifaminisonline/vet-clinic/blob/dev/LICENSE) licensed. -->
+
+This project is [MIT](https://github.com/asifaminisonline/vet-clinic/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
