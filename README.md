@@ -65,12 +65,6 @@ In order to run this project you need:
 
 Clone this repository by using the command line : git clone https://github.com/asifaminisonline/vet-clinic.git
 
-### Install
-
-Install this project with:
-
-Use npm install after cloning this project
-
 ### Usage
 
 - [ ] First you need to download this repo or clone this repo.
@@ -90,7 +84,7 @@ Use npm install after cloning this project
 
 - GitHub: [@asifaminisonline ](https://github.com/asifaminisonline)
 - Twitter: [@Asif Amin](https://twitter.com/AminAmi53306702)
-- LinkedIn: [@Asif Amin](https://www.linkedin.com/in/tanveerisonline/)
+- LinkedIn: [@Asif Amin](https://www.linkedin.com/in/asifaminisonline/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,5 +113,13 @@ If you're committed to making the world a better place, please support our proje
 - I would like to give credit to the following people who have inspired my codebase:
 
 - [] The Whole Microverse Team - thank you so much for this great learning platform.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## :memo: License <a name="license"></a>
+
+This project is [MIT](https://github.com/asifaminisonline/vet-clinic/blob/dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
