@@ -86,6 +86,12 @@ Clone this repository by using the command line : git clone https://github.com/a
 - Twitter: [@Asif Amin](https://twitter.com/AminAmi53306702)
 - LinkedIn: [@Asif Amin](https://www.linkedin.com/in/asifaminisonline/)
 
+👤 **Aman Worku **
+
+- GitHub: [@Aman_on_GitHub](https://github.com/AmanWorku)
+- Twitter: [@Aman_on_Twitter](https://twitter.com/Amexworku)
+- LinkedIn: [@Aman_on_LinkedIn](https://www.linkedin.com/in/aman-worku-tsegaw/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
