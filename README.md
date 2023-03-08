@@ -45,6 +45,16 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+still under production
+
+- [Live Demo Link]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -91,6 +101,14 @@ Clone this repository by using the command line : git clone https://github.com/a
 - GitHub: [@Aman_on_GitHub](https://github.com/AmanWorku)
 - Twitter: [@Aman_on_Twitter](https://twitter.com/Amexworku)
 - LinkedIn: [@Aman_on_LinkedIn](https://www.linkedin.com/in/aman-worku-tsegaw/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- **[More queries and schema files would be added.]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
